@@ -10,4 +10,4 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcachorro&psig=AOvVaw1-1ygIYJfR88hHNrONqhSv&ust=1715884044012000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNig06ikkIYDFQAAAAAdAAAAABAE) 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJnbWxybWs3bzNtdjB1d3F2M3g3aWtkeGJmN2ZtdmRvOTJkcHF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
